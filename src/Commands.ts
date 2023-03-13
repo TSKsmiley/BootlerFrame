@@ -1,8 +1,7 @@
-import ping from "./commands/ping";
-
 import { CustomClient as Client } from "./lib/CustomClient";
 import { Command } from "./lib/Command";
 
+import ping from "./commands/ping";
 
 
 export const Commands: Command[] = [ping]

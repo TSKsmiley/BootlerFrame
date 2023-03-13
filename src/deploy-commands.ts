@@ -2,7 +2,7 @@
 /* eslint-disable @typescript-eslint/no-unsafe-member-access */
 /* eslint-disable @typescript-eslint/no-unsafe-argument */
 import { REST, RESTPostAPIChatInputApplicationCommandsJSONBody, Routes } from "discord.js"; 
-import { Commands } from "./Commands";
+import { Commands } from "./commands";
 
 
 import * as dotenv from "dotenv"
