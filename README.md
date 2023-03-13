@@ -48,7 +48,7 @@ yarn run deploy
 if you want to make guild specific commands you have to edit the ``deploy-commands.ts`` file located in ``src/``
 
 ### running the bot
-start the bot can be done in two ways with or without nodemon
+starting the bot can be done in two ways with or without nodemon
 
 starts the bot with nodemon
 ```bash
