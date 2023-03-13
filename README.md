@@ -58,7 +58,9 @@ starts the bot normaly
 ```bash
 yarn run start normally
 ```
-
+# notes
+if you are getting erros you souldn't be getting try restarting the TS language server: 
+<kbd>F1</kbd> &rarr; ``>Typescript: Restart TS server``
 # yarn Commands / Scripts
 
 starts the bot with nodemon
