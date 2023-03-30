@@ -4,7 +4,7 @@ import interactionCreate from "./listeners/interactionCreate";
 import ready from "./listeners/ready";
 
 import * as dotenv from "dotenv"
-import { buildCommands } from "./commands";
+import { buildCommands } from "./Commands";
 dotenv.config();
 
 console.log("Bot is starting...");
