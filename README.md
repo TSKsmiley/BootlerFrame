@@ -56,7 +56,7 @@ yarn run watch
 ```
 starts the bot normaly 
 ```bash
-yarn run start normally
+yarn run start
 ```
 # notes
 if you are getting erros you souldn't be getting try restarting the TS language server: 
